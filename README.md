@@ -34,4 +34,4 @@ Projeyi zip den çıkar veeee..
 
 
 ##   
-[Discord](https://discord.com/users/671099941149474837)
+Discord: [**Kinoshi#7084**](https://discord.com/users/671099941149474837)
