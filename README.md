@@ -23,7 +23,7 @@
 
 Projeyi zip den çıkar veeee..
 
-*İlk olarak Bilgisayarında [Node JS](https://nodejs.org/en/) bulunması gerek.
+*İlk olarak Bilgisayarında [Node JS](https://nodejs.org/en/) bulunması gerek.*
 * YouTube'ye gir ve `mongoose link nasıl alınır` tarzı ufak bir araştırma yap, ardından projeye geri gel ve settings.json >`mongoUrl: "LİNKİNİ GİR"`
   * `settings.json > token: "DİSCORD TOKENİNİ GİR"` Discord Developer'dan bot tokenini al.
   * `settings.json > prefix: ["prefix1", "prefix2"]` komutlarının hangi prefix ile çalışacağını belirt.
