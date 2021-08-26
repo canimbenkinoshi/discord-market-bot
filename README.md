@@ -4,7 +4,6 @@
 
 [İçerikler](#içerikler)
 [Kurulum](#kurulum)
-[FAQ](#faq)
 
 # Içerikler
 
