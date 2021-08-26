@@ -34,4 +34,4 @@ Projeyi zip den çıkar veeee..
 
 
 ##   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/671099941149474837?theme=light&bg=f7c2c2&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/671099941149474837)
+[[Discord Presence](https://lanyard-profile-readme.vercel.app/api/671099941149474837?theme=light&bg=f7c2c2&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/671099941149474837)
