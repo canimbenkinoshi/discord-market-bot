@@ -33,4 +33,4 @@ Projeyi zip den çıkar veeee..
 * Ve son adım olarak terminale `node .` yazıp botunu başlatabilirsin ^^
 
 # Discord
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/671099941149474837?theme=light&bg=f7c2c2&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/671099941149474837)
+[!(https://lanyard-profile-readme.vercel.app/api/671099941149474837?theme=light&bg=f7c2c2&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/671099941149474837)
