@@ -1,6 +1,6 @@
-﻿# discord-market-bot
+# discord-market-bot
     - [İçerikler](#içerikler)
-	- [Kurulum](#kurulum)
+    - [Kurulum](#kurulum)
     - [FAQ](#faq)
 
 # Içerikler
