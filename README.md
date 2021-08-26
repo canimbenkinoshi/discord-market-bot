@@ -1,10 +1,9 @@
 # discord-market-bot
 
 Öylesine bir bot işte
-
-    [İçerikler](#içerikler)
-    [Kurulum](#kurulum)
-    [FAQ](#faq)
+[İçerikler](#içerikler)
+[Kurulum](#kurulum)
+[FAQ](#faq)
 
 # Içerikler
 
