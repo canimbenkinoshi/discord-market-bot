@@ -9,7 +9,7 @@
 
  - [x] **Çanta**
    * Aldığınız eşyaları listeler.
-   * `çanta`
+     * `çanta`
  - [x] **Eşya**
    * Markette eşya ekleyip kaldırmak için. - Markette ki eşyaları almak için. - Çantanızda ki eşyaları satmak için. - Çantanız da ki eşyayı kullanmak için. - Eşyalarınızı başkasına vermek için. - Eşya eklemek için kullanılır.
      * `eşya al`, `eşya sat`, `eşya kullan`, `eşya ver`, `eşya ekle` `eşya kaldır`
